@@ -1,0 +1,31 @@
+{
+  "description": "Generate random string by given length or mask",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/vitticeps/create-random-string/issues"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vitticeps/create-random-string.git"
+  },
+  "author": "Laszlo Rupl",
+  "name": "create-random-string",
+  "version": "1.0.0",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
